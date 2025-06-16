@@ -1,10 +1,11 @@
 
-# 💱 Currency Converter
+# 💱 Currency Converter [![Netlify Status](https://api.netlify.com/api/v1/badges/6e1babd7-1f28-4bd7-aca3-a097d8a3cfd8/deploy-status)](https://app.netlify.com/projects/mos-currency-converter/deploys)
 
 A simple and responsive **Currency Converter** built using **React** and **TailwindCSS**,
 powered by [Fawaz Ahmed's Free Currency API](https://github.com/fawazahmed0/currency-api).
 
-> Instantly convert between currencies with real-time exchange rates. 
+> Instantly convert between currencies with real-time exchange rates.
+
 ---
 __*Live Demo*__: [mos-currency-converter.netlify.app](https://mos-currency-converter.netlify.app/) 
 
