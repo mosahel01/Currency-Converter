@@ -1,13 +1,12 @@
-Here’s a clean, well-structured `README.md` you can paste directly into your project:
 
-````markdown
 # 💱 Currency Converter
 
-A simple and responsive **Currency Converter** built using **React** and **TailwindCSS**, powered by [Fawaz Ahmed's Free Currency API](https://github.com/fawazahmed0/currency-api).
+A simple and responsive **Currency Converter** built using **React** and **TailwindCSS**,
+powered by [Fawaz Ahmed's Free Currency API](https://github.com/fawazahmed0/currency-api).
 
-> Instantly convert between currencies with real-time exchange rates.
-
+> Instantly convert between currencies with real-time exchange rates. 
 ---
+__*Live Demo*__: [mos-currency-converter.netlify.app](https://mos-currency-converter.netlify.app/) 
 
 ## 🚀 Features
 
